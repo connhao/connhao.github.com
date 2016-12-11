@@ -68,4 +68,8 @@ theme: beautiful-hexo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 
+  type: git
+  message: update 
+  repo: https://github.com/connhao/connhao.github.com.git
+  branch: master 
+  

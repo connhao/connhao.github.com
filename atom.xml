@@ -95,35 +95,6 @@
   </entry>
   
   <entry>
-    <title>小象Python数据分析课程大纲</title>
-    <link href="http://yoursite.com/2016/12/11/python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E5%A4%A7%E7%BA%B2/"/>
-    <id>http://yoursite.com/2016/12/11/python数据分析-大纲/</id>
-    <published>2016-12-11T05:38:56.000Z</published>
-    <updated>2016-12-11T05:45:32.666Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="第一课-工作环境准备及Python数据结构讲解-2小时"><a href="#第一课-工作环境准备及Python数据结构讲解-2小时" class="headerlink" title="第一课 工作环境准备及Python数据结构讲解 (2小时)"></a>第一课 工作环境准备及Python数据结构讲解 (2小时)</h4><p>课程介绍<br>工作环境准备<br>Python语言基础回顾<br>Python数据结构讲解<br>列表<br>字典<br>元组<br>集合<br>Python高级特性<br>切片<br>迭代<br>Python高阶函数<br>map<br>filter<br>reduce</p>
-<h4 id="第二课-科学计算及数据可视化入门-2小时"><a href="#第二课-科学计算及数据可视化入门-2小时" class="headerlink" title="第二课 科学计算及数据可视化入门 (2小时)"></a>第二课 科学计算及数据可视化入门 (2小时)</h4><p>使用NumPy和SciPy进行科学计算<br>Matplotlib绘图入门<br><strong>实战案例：</strong>2016美国总统大选数据分析 (2016 Election Polls)</p>
-<h4 id="第三课-本地数据的采集与操作-2小时"><a href="#第三课-本地数据的采集与操作-2小时" class="headerlink" title="第三课 本地数据的采集与操作 (2小时)"></a>第三课 本地数据的采集与操作 (2小时)</h4><p>常用格式的本地数据读写<br>SQL常用语法讲解<br>Python的数据库基本操作<br>数据库多表连接用法详解<br>left join<br>right join<br>inner join<br><strong>实战案例：</strong>欧洲职业足球数据库分析 (European Soccer Database) </p>
-<h4 id="第四课-网络数据的获取与表示-2小时"><a href="#第四课-网络数据的获取与表示-2小时" class="headerlink" title="第四课 网络数据的获取与表示 (2小时)"></a>第四课 网络数据的获取与表示 (2小时)</h4><p>BeautifulSoup解析网页<br>爬虫框架Scrapy基础<br><strong>实战案例：</strong>获取电商网站的商品信息 </p>
-<h4 id="第五课-数据分析工具Pandas-基础-2小时"><a href="#第五课-数据分析工具Pandas-基础-2小时" class="headerlink" title="第五课 数据分析工具Pandas 基础 (2小时)"></a>第五课 数据分析工具Pandas 基础 (2小时)</h4><p>Pandas的数据结构<br>Series<br>DataFrame<br>Pandas的数据操作<br>数据的导入、导出<br>数据的过滤筛选<br>索引及多重索引<br>Pandas统计计算和描述<br>Pandas的绘图函数<br><strong>实战案例：</strong>星级争霸II重放分析 (StarCraft II Replay Analysis) </p>
-<h4 id="第六课-数据分析工具Pandas进阶-2小时"><a href="#第六课-数据分析工具Pandas进阶-2小时" class="headerlink" title="第六课 数据分析工具Pandas进阶 (2小时)"></a>第六课 数据分析工具Pandas进阶 (2小时)</h4><p>数据的分组与聚合<br>数据的分组运算<br>Pandas透视表和交叉表<br><strong>实战案例：</strong>互联网电影资料库分析 (IMDB 5000 Movie Dataset) </p>
-<h4 id="第七课-数据的规整与可视化-2小时"><a href="#第七课-数据的规整与可视化-2小时" class="headerlink" title="第七课 数据的规整与可视化 (2小时)"></a>第七课 数据的规整与可视化 (2小时)</h4><p>数据清洗、合并、转化和重构<br>常用的Python数据可视化工具<br>Matplotlib回顾及扩充<br>Seaborn绘图<br>交互式数据可视化—Bokeh绘图<br><strong>实战案例：</strong>空难历史数据分析 (Airplane Crashes Since 1908) </p>
-<h4 id="第八课-机器学习基础及机器学习库scikit-learn入门-2小时"><a href="#第八课-机器学习基础及机器学习库scikit-learn入门-2小时" class="headerlink" title="第八课 机器学习基础及机器学习库scikit-learn入门 (2小时)"></a>第八课 机器学习基础及机器学习库scikit-learn入门 (2小时)</h4><p>机器学习基础<br>scikit-learn入门<br><strong>实战案例：</strong>利用声音数据进行性别识别 (Gender Recognition by Voice) </p>
-<h4 id="第九课-项目实战：“闪电约会”配对预测-2小时"><a href="#第九课-项目实战：“闪电约会”配对预测-2小时" class="headerlink" title="第九课 项目实战：“闪电约会”配对预测 (2小时)"></a>第九课 项目实战：“闪电约会”配对预测 (2小时)</h4><p>项目介绍 (Speed Dating Experiment)<br>数据分析与处理<br>模型选择及训练<br>课程总结<br>常见问题：</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;第一课-工作环境准备及Python数据结构讲解-2小时&quot;&gt;&lt;a href=&quot;#第一课-工作环境准备及Python数据结构讲解-2小时&quot; class=&quot;headerlink&quot; title=&quot;第一课 工作环境准备及Python数据结构讲解 (2小时)&quot;&gt;&lt;/a&gt;第一课
-    
-    </summary>
-    
-    
-      <category term="python" scheme="http://yoursite.com/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/12/11/hello-world/"/>
     <id>http://yoursite.com/2016/12/11/hello-world/</id>

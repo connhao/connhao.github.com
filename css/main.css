@@ -19,7 +19,7 @@ p a {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 800	;
 }
 a {
   color: #008AFF;
@@ -314,7 +314,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 14px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -322,12 +322,12 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 250;
 }
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 24px;
   }
 }
 
@@ -484,9 +484,9 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 250;
   letter-spacing: 1px;
-  padding: 10px 5px;
+  padding: 5px 2px;
   background: #FFF;
   border-radius: 0;
   color: #404040;
